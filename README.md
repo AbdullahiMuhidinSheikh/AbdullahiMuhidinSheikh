@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdullahiMuhidinSheikh
 - 👀 I’m interested in web programming, Coding and adventure
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning web development, cybersecurity and system adminstartion.
+- 💞️ I’m looking to collaborate on web development,  cybersecurity and system adminstartion.
 - 📫 How to reach me muhidinabdullahi60@gmail.com
 
 <!---
